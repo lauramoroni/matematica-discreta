@@ -1,7 +1,4 @@
-# Matemática discreta
-Esse repositório contém listas de códigos e projetos para acompanhar a disciplina de Matemática Discreta.
 
-<<<<<<< HEAD
 ## Lista de programação 1
 ### Questão 1
 Faça um código em uma linguagem de programação que calcule o valor do somatório a seguir:
@@ -36,8 +33,3 @@ $$
 
 Compare também o **tempo de execução do seu algoritmo** feito em programação dinâmica com outro algoritmo feito com funções recursivas.
 
-
-** Esse repositório será atualizado de acordo com os avanços na disciplina
-=======
-** Esse repoositório será atualizado de acordo com os avanços na disciplina
->>>>>>> a130e2fd5378c192d352f57d7a05e9e4e1080d40
