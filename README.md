@@ -36,4 +36,4 @@ $$
 Compare também o **tempo de execução do seu algoritmo** feito em programação dinâmica com outro algoritmo feito com funções recursivas.
 
 
-** Esse repoositório será atualizado de acordo com os avanços na disciplina
+** Esse repositório será atualizado de acordo com os avanços na disciplina
